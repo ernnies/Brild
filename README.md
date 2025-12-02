@@ -10,11 +10,6 @@ Deployed core contracts on Celo:
 
 Every strategy you build with brild is a verifiable onchain asset, executes in sub-seconds, costs pennies in cUSD, and can be shared, sold, or rented instantly.
 
-- **Repository**: [https://github.com/ernnies/brild](https://github.com/ernnies/brild)  
-- **Author**: ernnies  
-- **Created**: December 02, 2025  
-- **License**: MIT License (see LICENSE file)
-
 ---
 
 ## What brild Does
