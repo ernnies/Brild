@@ -10,7 +10,7 @@ export default function Home() {
       {/* Navigation */}
       <nav className="bg-white shadow-md py-4">
         <div className="container mx-auto px-4 flex justify-between items-center">
-          <div className="text-2xl font-semibold text-blue-700">Brill</div>
+          <div className="text-2xl font-semibold text-blue-700">Brild</div>
           <div className="space-x-6">
             <Link href="/features" className="text-blue-600 hover:text-gold-500 transition duration-300">
               Features
@@ -28,7 +28,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="py-20 bg-gradient-to-r from-blue-100 to-white">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-5xl font-bold text-gray-900 mb-6">Welcome to Brill</h1>
+          <h1 className="text-5xl font-bold text-gray-900 mb-6">Welcome to Brild</h1>
           <p className="text-lg max-w-2xl mx-auto mb-8 text-gray-700">
             A no-code DeFi automation app built on Celo's decentralized AI Layer 1
             blockchain, empowering users with AI-driven trading workflows.
@@ -50,7 +50,7 @@ export default function Home() {
             <div className="bg-white p-6 rounded-lg shadow-md">
               <h2 className="text-2xl font-semibold text-blue-700 mb-4">What it does</h2>
               <p className="text-base text-gray-700">
-                Brill is a no-code, drag-and-drop DeFi automation app built on
+                Brild is a no-code, drag-and-drop DeFi automation app built on
                 Celo's decentralized AI Layer 1 blockchain. It empowers users to
                 craft sophisticated crypto trading and DeFi workflows
                 effortlessly, leveraging AI-driven analytics, real-time market
@@ -65,7 +65,7 @@ export default function Home() {
               <p className="text-base text-gray-700">
                 Traditional DeFi platforms require coding expertise, high costs,
                 and centralized AI, limiting accessibility and transparency.
-                Brill eliminates these barriers by offering a user-friendly
+                Brild eliminates these barriers by offering a user-friendly
                 interface, affordable decentralized AI via 0G Compute, and
                 verifiable onchain workflows, making advanced financial
                 automation a public good for all crypto enthusiasts.
@@ -136,7 +136,7 @@ export default function Home() {
             FAQ
           </Link>
         </div>
-        <p className="mt-2 text-sm">&copy; {getCurrentYear()} Brill. All rights reserved.</p>
+        <p className="mt-2 text-sm">&copy; {getCurrentYear()} Brild. All rights reserved.</p>
       </footer>
     </div>
   );
