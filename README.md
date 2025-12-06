@@ -8,6 +8,10 @@ Deployed core contracts on Celo:
 - **brildToken**: `0x03A1a836FAEc7Dc83D39AaC91283fe42230b1835`  
 - **brildCore Proxy**: `0x55a4a8A46F2B204e74F5D5861a6eAD8ccf89b08`  
 
+
+https://youtu.be/clYrJwk8eck
+
+
 Every strategy you build with brild is a verifiable onchain asset, executes in sub-seconds, costs pennies in cUSD, and can be shared, sold, or rented instantly.
 
 ---
